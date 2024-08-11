@@ -26,3 +26,11 @@ def log(x):
         float: The natural logarithm of the given number.
     """
     return math.log(x)
+
+
+def name(one, two):
+    """
+    Purpose: one
+    """
+    
+# end def
