@@ -14,3 +14,15 @@ def factorial(x):
     else:
         return x * factorial(x-1)
     
+
+def log(x):
+    """
+    Calculate the natural logarithm of a given number.
+
+    Args:
+        x (float): The number for which to calculate the natural logarithm.
+
+    Returns:
+        float: The natural logarithm of the given number.
+    """
+    return math.log(x)
